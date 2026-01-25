@@ -1,0 +1,42 @@
+*{
+    height: 100;
+    width: 100;
+    background-color: rgb(244, 243, 241);
+}
+
+.img{
+    border: 2px solid rgb(71, 35, 35);
+    background-color: rgb(205, 194, 194);
+    height: 153px;
+}
+
+.ab{
+    opacity: 200px;
+}
+.navList {
+    margin-top: 104px;
+    float: right;
+}
+.navList  li{
+    display: inline;
+    font-size: 30px;
+    color: blue;
+}
+.navList li a{
+    text-decoration: none;
+    margin-right: 100px;
+    color: white;
+}
+.Headings{
+    margin-top: -120px;
+    align-items: center;
+    text-align: center;
+    text-shadow: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.headings{
+    margin-left: 90px;
+    color: aliceblue;
+}
+
